@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "South Korea: Conservative candidate Yoon Suk-yeol elected president",
+    "description": "Mr Yoon's win was one of the closest in history - with the final count separated by less than 1%.",
+    "url": "http://www.bbc.co.uk/news/world-asia-60685141",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/857A/production/_123607143_gettyimages-1238869615.jpg",
+    "publishedAt": "2022-03-10T14:07:21.6667416Z",
+    "content": "Image source, Getty Images\r\nImage caption, Mr Yoon called his win a \"victory of the great South Korean people\".\r\nSouth Korea has chosen a conservative opposition candidate, Yoon Suk-yeol, as the coun… [+4268 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine: Private militias recruiting former soldiers",
+    "description": "Private militias are \"scouring\" social media to recruit former soldiers, veterans say.",
+    "url": "http://www.bbc.co.uk/news/uk-wales-60676720",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7032/production/_123622782_gettyimages-1238943739.jpg",
+    "publishedAt": "2022-03-10T13:22:28.5269814Z",
+    "content": "By Will FyfeBBC News\r\nImage caption, Anyone who travels unlawfully to Ukraine for combat will be investigated on their return to the UK, the Foreign office has said\r\nSome military veterans have recei… [+4720 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Russia hits back at Western sanctions with export ban",
+    "description": "Russia will halt exports of cars, medical equipment and other goods until the end of 2022.",
+    "url": "http://www.bbc.co.uk/news/business-60689279",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11AA/production/_123622540_gettyimages-1236639689.jpg",
+    "publishedAt": "2022-03-10T13:22:23.5364701Z",
+    "content": "Image source, Getty Images\r\nImage caption, Russia has banned exports of auto equipment\r\nRussia has banned exports of more than 200 types of product in retaliation for Western sanctions on Moscow.\r\nTe… [+589 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Dolly's novel approach to writing first book",
+    "description": "Dolly Parton has written her first novel with the help of best-selling author James Patterson.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-60609363",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/157B5/production/_123598978_gettyimages-1383009272.jpg",
+    "publishedAt": "2022-03-10T13:07:22.1042201Z",
+    "content": "Singer, musician, producer, actress, theme park owner and campaigner Dolly Parton is adding author to her long list of accomplishments.\r\nWith the help of best-selling author James Patterson, the 76-y… [+220 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nicholas Rossi: The man accused of being a fugitive",
+    "description": "The bizarre case of a man arrested in a Glasgow hospital accused by the US of being a fugitive.",
+    "url": "http://www.bbc.co.uk/news/uk-scotland-60676092",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/125CB/production/_123611257_fugitive_sgo_0303_1833rs_frame_964.jpg",
+    "publishedAt": "2022-03-10T12:52:24.0263993Z",
+    "content": "By Steven GoddenBBC Scotland\r\nMedia caption, The man who claims to be Arthur Knight denies he is Nicholas Rossi\r\nIt is a bizarre case that has been making international headlines. A man was arrested … [+5154 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Kyiv and Moscow to hold high-profile talks",
+    "description": "The talks in Turkey come after Kyiv accused Moscow of a war crime for bombing a children's hospital.",
+    "url": "http://www.bbc.co.uk/news/world-europe-60687203",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B6D2/production/_123620864_mediaitem123620863.jpg",
+    "publishedAt": "2022-03-10T05:52:25.5613362Z",
+    "content": "Media caption, WATCH: The aftermath of a Russian strike on a maternity and children's hospital in Mariupol.\r\nThe foreign ministers of Russia and Ukraine are to hold talks in Turkey, as Moscow's all-o… [+4350 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "Djokovic pulls out of Indian Wells & Miami",
+    "description": "Novak Djokovic withdraws from Indian Wells and the Miami Open - the first two Masters Series events of the year - because of US coronavirus rules.",
+    "url": "http://www.bbc.co.uk/sport/tennis/60685794",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/12427/production/_123619747_gettyimages-1238706982.jpg",
+    "publishedAt": "2022-03-10T03:37:22.7771791Z",
+    "content": "Former world number one Novak Djokovic played in his first tournament of 2022 in Dubai in February\r\nNovak Djokovic has withdrawn from Indian Wells and the Miami Open - the first two Masters Series ev… [+2451 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Black Panther Ryan Coogler director mistaken for bank robber",
+    "description": "Ryan Coogler was arrested trying to withdraw money from his own bank account in Atlanta, Georgia.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-60685146",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DE95/production/_123618965_acdd7e62-0d33-41e6-af64-2a2ed051a3f8.jpg",
+    "publishedAt": "2022-03-10T00:07:21.4171866Z",
+    "content": "Image source, Getty Images\r\nImage caption, Ryan Coogler, pictured in 2019, was mistakenly arrested brielfy\r\nThe director of hit superhero film Black Panther was mistaken for a bank robber as he tried… [+1729 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The Capitol riot trial that tore a family apart",
+    "description": "Guy Reffitt was convicted of taking part in the 6 January riots, in part due to testimony from his own son.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-60671723",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A781/production/_123618824_comp.jpg",
+    "publishedAt": "2022-03-09T23:52:23.3732738Z",
+    "content": "By Tara McKelveyBBC News, Washington\r\nImage source, William J Hennessey Jr / CBS\r\nImage caption, Guy Raffitt cried in the courtroom when his son Jackson took the stand against him\r\nWhen Guy Reffitt b… [+9438 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Toddler tossed to safety from burning building",
+    "description": "A brave father threw his son, 3, from the window of a burning building down to first responders.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-60635933",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0546/production/_123605310_p0bthb6q.jpg",
+    "publishedAt": "2022-03-09T23:22:21.8899974Z",
+    "content": "A brave father threw his three-year-old son from the second storey of a burning building. First responders on the ground caught the toddler and then his dad, who also had to jump to safety. \r\nBoth ar… [+201 chars]"
+    }
+    ]
+    }
